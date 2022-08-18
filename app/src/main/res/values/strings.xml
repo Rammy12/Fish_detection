@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fish Detection</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Language">
+        <item>हिन्दी</item>
+        <item>English</item>
+        <item>తెలుగు</item>
+        <item>Hindi</item>
+        <item>Hindi</item>
+    </string-array>
+
+    <string-array name="Assi_Language">
+        <item>हिन्दी</item>
+        <item>English</item>
+        <item>తెలుగు</item>
+        <item>Hindi</item>
+        <item>Hindi</item>
+    </string-array>
+</resources>

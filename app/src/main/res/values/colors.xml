@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="recy_colour_blue">#a1c4fd</color>
+    <color name="recy_colour_gray">#cfd9df</color>
+    <color name="recy_colour_3">#e2d1c3</color>
+    <color name="recy_colour_4">#d1fdff</color>
+    <color name="recy_colour_5">#f9f586</color>
+    <color name="recy_colour_6">#cd9cf2</color>
+</resources>
